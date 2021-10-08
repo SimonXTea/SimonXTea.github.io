@@ -5,7 +5,7 @@ I had a simple college assignment to make a modified version of a Pygame called 
 
 A preview can be seen below.
 
-gif
+video
 
 List of modifications
 - A scoring system
