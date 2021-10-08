@@ -5,7 +5,7 @@ Also, whenever I am credited, I want the credits of my work to go to me, not my 
 
 There are no exceptions, I always include the initials somehow, you never know when whoever knows me must contact my father, or a matter has to get both of us involved at the same time. I don't usually include the full middle name because that can also lead to confusion.
 
-**In short words: I always include my middle name initial because it makes life easier for everybody. It distinguishes me from my father**
+**In short words: I always include my middle name initial because it makes life easier for everybody. It distinguishes me from my father.**
 
 I don't have plans to change my name, I don't want to. It was suggested that I call myself "Simon jr" or "Simon The 2nd", and to that I say, no.
 
