@@ -69,7 +69,7 @@ RIGHT = 'right'
 
 # plays music the moment you open the game
 mixer.init() 
-pygame.mixer.music.load('proj04.mp3') #Place the music you want on the same folder as the game, and change the name so it matches
+pygame.mixer.music.load('proj04.ogg') #Place the music you want on the same folder as the game, and change the name so it matches
 pygame.mixer.music.play(-1)
 
 ### core game and a lot of stuff ###
@@ -170,7 +170,7 @@ def main():
                         EASTER = EASTER + 1
                         if EASTER == 10:
                             score = score - 10
-                            pygame.mixer.music.load('calm4.mp3')
+                            pygame.mixer.music.load('calm4.ogg')
                             pygame.mixer.music.play(-1)
                             EASTER = -100
                     else:
@@ -181,7 +181,7 @@ def main():
                         EASTER = EASTER + 1
                         if EASTER == 10:
                             score = score - 10
-                            pygame.mixer.music.load('calm4.mp3')
+                            pygame.mixer.music.load('calm4.ogg')
                             pygame.mixer.music.play(-1)
                             EASTER = -100
                 elif event.key in (K_DOWN, K_s) and isValidMove(mainBoard, DOWN):
