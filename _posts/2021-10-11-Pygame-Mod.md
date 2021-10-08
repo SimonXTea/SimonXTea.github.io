@@ -17,3 +17,5 @@ List of modifications
 - Ability to change the volume
 - Sound effects when moving tiles
 - An easter egg / secret (Press w 10 times). This won’t affect your score. You can’t disable the secret once unlocked
+
+Image of my Pygame mod.
