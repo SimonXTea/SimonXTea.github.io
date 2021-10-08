@@ -1,7 +1,9 @@
 
 # Pygame Slide Puzzle Mod
 
-I had a simple college assignment to make a modified version of a Pygame called Slide Puzzle (by Al Sweigart). This only works on Windows. (Install with “pip install pypiwin32”, for any win32api issues use google)
+I had a simple college assignment to make a modified version of a Pygame called Slide Puzzle (by Al Sweigart). This pygame only works on Windows. (Install with “pip install pypiwin32”, for any win32api issues use Google)
+
+How to play: The board is a 4x4 grid with fifteen tiles (numbered 1 through 15 going left to right) and one blank space. The tiles start out in random positions, and the player must slide tiles around until the tiles are back in their original order.
 
 [Download here](https://github.com/SimonXTea/SimonXTea.github.io/raw/main/projects/Pygame/Pygame%20Slide%20Puzzle%20Mod/PyGame%20mod.zip)
 
@@ -9,7 +11,7 @@ I had a simple college assignment to make a modified version of a Pygame called 
 
 [Read source code here](https://github.com/SimonXTea/SimonXTea.github.io/tree/main/projects/Pygame/Pygame%20Slide%20Puzzle%20Mod)
 
-[Original Pygame]()
+[Original Pygame](https://inventwithpython.com/pygame/chapter4.html)
 
 A preview can be seen below.
 
@@ -17,13 +19,16 @@ A preview can be seen below.
 
 List of modifications
 - A scoring system
-- Full screen **(Missing online)**
 - Redesign, night mode friendly
-- More rows and columns, more difficult
+- Full screen **(Missing online, Windows Exclusive)**
 - Background music **(Missing online)**
 - Mute music (Press M) **(Missing online)**
 - Ability to change the volume **(Missing online)**
 - Sound effects when moving tiles **(Missing online)**
 - An easter egg / secret (Press w 10 times). This won’t affect your score. You can’t disable the secret once unlocked **(Missing online)**
+
+You can also change the difficulty by changing BOARDWIDTH and BOARDHEIGHT. This is a feature from the original pygame, not a mod.
+
+A version that is compatible with all operating systems that support pygame could be made if the ability to full screen was removed. 
 
 ![Pygame mod image](/assets/blog image/Pygame.png)
