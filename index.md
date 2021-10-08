@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+A website to show my skills, mostly related to cybersecurity and other tech. I do some projects at home that I may share publicly.
