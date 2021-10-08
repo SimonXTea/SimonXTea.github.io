@@ -7,6 +7,8 @@ I had a simple college assignment to make a modified version of a Pygame called 
 
 [Play online on Replit here](https://replit.com/@SimonXTea/Slide-Puzzle-Mod#main.py)
 
+[Read source code here](https://github.com/SimonXTea/SimonXTea.github.io/tree/main/projects/Pygame/Pygame%20Slide%20Puzzle%20Mod)
+
 A preview can be seen below.
 
 video
