@@ -1,1 +1,1 @@
-Note to self: Not included because I am not convinced at how the information included on the sheets reflect the entire process and my knowledge. This is not trying to say that I have experience real hands-on experience at work, I don't
+Note to self: Not included on a post because there may not be enough information of the organization being audited, and what each table means. This does properly reflect my skills in auditing.
