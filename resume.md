@@ -1,5 +1,7 @@
 # Resume
 
+This page is a work in progress
+
 **Simon X Camilo**
 Salem, MA • simonxcbaez@gmail.com • ‪(617) 394-8201‬
 
