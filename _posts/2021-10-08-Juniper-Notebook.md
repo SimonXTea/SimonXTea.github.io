@@ -5,3 +5,5 @@ I was taught to use Juniper Notebook in order to compare data and suggest what a
 You can see this here: https://drive.google.com/drive/folders/17AIt49csXIXbU-JeWdm6TLCgrXXAnUT9?usp=sharing
 
 There's not a lot of text here because this was done long ago
+
+Image preview of notebook (not full image, keep it square)
