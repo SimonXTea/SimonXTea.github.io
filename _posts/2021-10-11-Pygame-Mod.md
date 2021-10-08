@@ -17,7 +17,7 @@ How to play: The board is a 4x4 grid with fifteen tiles (numbered 1 through 15 g
 
 A preview can be seen below.
 
-<iframe src="https://drive.google.com/file/d/1lEubGmaZS046EsaSOEskJwy2hTrhBzfd/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1MJEldTm2xyzx0Oau5guS252dJk2PK_4L/preview" width="640" height="480" allow="autoplay"></iframe>
 
 List of modifications
 - A scoring system
