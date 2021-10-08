@@ -7,7 +7,5 @@ There are three sets of instructions on how to do the assignment. The summarized
 
 [Find data samples an dother relevant files here](https://github.com/SimonXTea/SimonXTea.github.io/blob/main/projects/Jupyter%20Notebook/)
 
-There's not a lot of text here because this was done long ago
-
 ![Jupyter preview](/assets/blog image/Jupyter Notebook preview.png)
 
