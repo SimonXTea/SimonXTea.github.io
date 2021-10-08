@@ -6,4 +6,10 @@ With pihole I had a lot more control to learn about what domains can be commonly
 
 If you are not familiar with Pi-Hole and Proxifier, here's how they look like:
 
-Pi-Hole image / Proxifier image
+These are all the addresses that had been resolved by my local dns resolver. It also shows if these addresses have been blocked or allowed
+
+![Pi-Hole Query log](/assets/blog image/Pi-Hole Query Log.png)
+
+Proxifier shows all the active connections on my computer, and also maintains a log of every connection that has been done previously. It's very useful
+
+![Proxifier interface](/assets/blog image/Proxifier Interface.png)
