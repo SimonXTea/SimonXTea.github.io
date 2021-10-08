@@ -9,9 +9,11 @@ I had a simple college assignment to make a modified version of a Pygame called 
 
 [Read source code here](https://github.com/SimonXTea/SimonXTea.github.io/tree/main/projects/Pygame/Pygame%20Slide%20Puzzle%20Mod)
 
+[Original Pygame]()
+
 A preview can be seen below.
 
-video
+<iframe src="https://drive.google.com/file/d/1lEubGmaZS046EsaSOEskJwy2hTrhBzfd/preview" width="640" height="480" allow="autoplay"></iframe>
 
 List of modifications
 - A scoring system
@@ -24,4 +26,4 @@ List of modifications
 - Sound effects when moving tiles **(Missing online)**
 - An easter egg / secret (Press w 10 times). This won’t affect your score. You can’t disable the secret once unlocked **(Missing online)**
 
-Image of my Pygame mod.
+![Pygame mod image](/assets/blog image/Pygame.png)
