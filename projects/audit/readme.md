@@ -1,1 +1,1 @@
-
+Note to self: Not included because I am not convinced at how the information included on the sheets reflect the entire process and my knowledge. This is not trying to say that I have experience, I don't
