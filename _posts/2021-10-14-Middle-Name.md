@@ -11,4 +11,4 @@ I don't have plans to change my name, I don't want to. It was suggested that I c
 
 Sometimes I make up a name on the spot if it makes life easier somehow (example, when me and my father are involved on a matter). Denis Tea is a common nickname, as well as Ben Cave.
 
-Should I give my full name on this website? Could that have negative repercussions in the future? Maybe, I am not sure. All you are going to get is Simon X Camilo, if you want the full name you are going to have to ask.
+Should I give my full name on this website? Could that have negative repercussions in the future? Maybe, I am not sure. All you are going to get is Simon X Camilo, if you want the full name can ask through another medium (not the comments).
