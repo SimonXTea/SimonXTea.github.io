@@ -13,6 +13,6 @@ I don't have plans to change my name, I don't want to. It was suggested that I c
 
 Sometimes I make up a name on the spot if it makes life easier somehow (example, when me and my father are involved on a matter). Denis Tea is a common nickname, as well as Ben Cave.
 
-Should I give my full name on this website? Could that have negative repercussions in the future? Maybe, I am not sure. All you are going to get is Simon X Camilo, if you want the full name you can ask through another medium (not the comments). I also have an online username (as everyone does), it's not hard to figure out if you are a private investigator, and I don't mind. A random LinkedIn user was able to find me, they did it out of boredom probably.
+Should I give my full name on this website? Could that have negative repercussions in the future? Maybe, I am not sure. All you are going to get is Simon X Camilo, if you want the full name you can ask through another medium (not the comments).
 
 ![Image of a large X](/assets/blog image/My middle name.jpg)
