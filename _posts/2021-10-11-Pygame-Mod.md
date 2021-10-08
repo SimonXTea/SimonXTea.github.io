@@ -5,7 +5,9 @@ I had a simple college assignment to make a modified version of a Pygame called 
 
 How to play: The board is a 4x4 grid with fifteen tiles (numbered 1 through 15 going left to right) and one blank space. The tiles start out in random positions, and the player must slide tiles around until the tiles are back in their original order.
 
-[Download here](https://github.com/SimonXTea/SimonXTea.github.io/raw/main/projects/Pygame/Pygame%20Slide%20Puzzle%20Mod/PyGame%20mod.zip)
+[Download here for Windows](https://github.com/SimonXTea/SimonXTea.github.io/raw/main/projects/Pygame/Pygame%20Slide%20Puzzle%20Mod/PyGame%20mod.zip)
+
+[Download here for cross-platform](Not available yet)
 
 [Play online on Replit here](https://replit.com/@SimonXTea/Slide-Puzzle-Mod#main.py)
 
