@@ -6,4 +6,4 @@ The first thing I did was perform dns hijacking against myself. This is because 
 
 I also wanted to have a vpn on my router. This helps prevent leaks, from malfunction or an application trying to bypass it. I created a separate network on openwrt, to not force everyone to be connected to my vpn. I had a problem with my vpn network being too slow to resolve addresses. To solve this I had to connect my dns resolver to the new network, change firewall rules to allow input between both networks, and perform dns hijacking on the new network. Tinyproxy was also installed to allow only some apps to bypass my vpn (example: online banking applications and websites)
 
-I might make an image that shows how my network looks like. It's not relevant in any way though.
+I might make an image that shows how my network structure looks like. It would not be relevant in any way, but it would still be good filler image.
