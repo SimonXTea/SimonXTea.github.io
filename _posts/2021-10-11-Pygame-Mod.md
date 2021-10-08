@@ -29,7 +29,7 @@ List of modifications
 - Sound effects when moving tiles **(Missing online)**
 - An easter egg / secret (Press w 10 times). This won’t affect your score. You can’t disable the secret once unlocked **(Missing online)**
 
-You can also change the difficulty by changing BOARDWIDTH and BOARDHEIGHT. This is a feature from the original pygame, not a mod.
+You can also change the difficulty by changing BOARDWIDTH and BOARDHEIGHT in the code. This is a feature from the original pygame, not the mod.
 
 A version that is compatible with all operating systems that support pygame could be made if the ability to full screen was removed. 
 
