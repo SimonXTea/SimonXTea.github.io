@@ -1,7 +1,7 @@
 
-# Pygame
+# Pygame Slide Puzzle Mod
 
-I had a simple college assignment to make a modified version of PyGame. Click here to try it (https://drive.google.com/drive/folders/1hajZ6teNrvmH8zLRa5pVsMZlpsI6B0hz?usp=sharing)
+I had a simple college assignment to make a modified version of a Pygame called Slide Puzzle (by Al Sweigart). Click here to try it (https://drive.google.com/drive/folders/1hajZ6teNrvmH8zLRa5pVsMZlpsI6B0hz?usp=sharing)
 
 A preview can be seen below.
 
