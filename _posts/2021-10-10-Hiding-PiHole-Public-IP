@@ -6,4 +6,6 @@ To solve this I found the location of every configuration file, changed them man
 
 I knew this was successful, because on my pihole machine I can use the command "curl ifconfig.me" to see that my ip is different from the one given by my isp. I also know this because if I use a device that uses my dns, and go to https://www.dnsleaktest.com, I can see that the ip address of my dns is different and it's on a different location.
 
-Image of DNS leak test results. Address and server name must be blurred out.
+I can tell you I don't live in Norway, and I don't have a giant wireless network that goes from the US to Norway.
+
+[Image of DNS leak test results.](/assets/blog image/Successful DNS Leak Result.png)
