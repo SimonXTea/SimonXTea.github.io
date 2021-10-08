@@ -15,4 +15,4 @@ Sometimes I make up a name on the spot if it makes life easier somehow (example,
 
 Should I give my full name on this website? Could that have negative repercussions in the future? Maybe, I am not sure. All you are going to get is Simon X Camilo, if you want the full name you can ask through another medium (not the comments). I also have an online username (as everyone does), it's not hard to figure out if you are a private investigator, and I don't mind. A random LinkedIn user was able to find me, they did it out of boredom probably.
 
-Image of a large X
+![Image of a large X](/assets/blog image/My middle name.jpg)
