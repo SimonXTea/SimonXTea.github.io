@@ -7,7 +7,7 @@
 # Professor: Redacted
 # Class: Redacted
 
-# Features of mod: Fullscreen(f), Design change, more rows and columns, music(m to mute), volume, sound effects, scores, easter
+# Features of mod: Fullscreen(f), Design change, music(m to mute), volume, sound effects, scores, easter
 
 # Reset = gets the game to where it started, but the solution would be the same
 # Start a new game = will start a game completely from the beggining, and the solution will change
