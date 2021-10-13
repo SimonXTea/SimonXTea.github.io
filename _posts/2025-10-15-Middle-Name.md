@@ -11,6 +11,6 @@ I always include the initials of my middle name to avoid these problems. I don't
 
 I don't have plans to change my name, I don't want to. It was suggested that I call myself "Simon jr" or "Simon The 2nd", and I don't like that. Sometimes to avoid the issues mentioned above, I instead name myself something on the spot, this is more common on phone calls (never legal documents). Denis Tea is a common nickname, as well as Ben Cave.
 
-Should I give my full name on this website? Could that have negative repercussions in the future? Maybe, I am not sure. All you are going to get is Simon X Camilo, if you want the full name you can ask through another private medium, such as instant messaging.
+Should I give my full name on this website? Could that have negative repercussions in the future? Maybe, I am not sure. All you are going to get is Simon X Camilo, if you want the full name you can ask through a private medium, such as instant messaging.
 
 ![Image of a large X](/assets/blog image/My middle name.jpg)
