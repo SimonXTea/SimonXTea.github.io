@@ -5,7 +5,7 @@ There are three sets of instructions on how to do the assignment. The summarized
 
 [You can see my ipython notebook here](https://github.com/SimonXTea/SimonXTea.github.io/blob/main/projects/Jupyter%20Notebook/proj03.ipynb)
 
-[Find data samples an dother relevant files here](https://github.com/SimonXTea/SimonXTea.github.io/blob/main/projects/Jupyter%20Notebook/)
+[Find data samples an other relevant files here](https://github.com/SimonXTea/SimonXTea.github.io/blob/main/projects/Jupyter%20Notebook/)
 
 ![Jupyter preview](/assets/blog image/Jupyter Notebook preview.png)
 
