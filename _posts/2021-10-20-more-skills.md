@@ -9,4 +9,5 @@ good skills into finding information about people (detective skills) I had been 
 a lot of experience solving issues, I study viruses sometimes, and probably more
 
 Things I know that I had already written about:
+
 Pi-Hole, OpenWRT, Netgear, TP-Link, Python, tor proxy, Proxifier, Managing a router, Managing a network, creating virtual networks, Pygame, OBS, Apache, Jupyter Notebook, SQL-Injection, and Penetration Testing
