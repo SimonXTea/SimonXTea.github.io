@@ -4,4 +4,4 @@ In December 2019, I was committed to turning my old mobile device into a live se
 
 This project involved PowerShell, Python, HTML5, and Bash knowledge. It also used cli software such as FFMPEG, and HandBrake. And used gui applications such as OBS, and DroidCam. In this link you can see some of the scripts I used and what my camera looks like [https://drive.google.com/drive/folders/10rj730U0ReVNVWSM5GptY4WZM5XcecLE?usp=sharing](https://drive.google.com/drive/folders/10rj730U0ReVNVWSM5GptY4WZM5XcecLE?usp=sharing) (note: I considered uploading them on Github, but it would be very inconvenient for me to update, and very inconvenient for you to download and implement on your apache server. Copyright might make it more complicated as well)
 
-Gimp an image of my old phone. (in progress)
+![My OBS Mobile LAN Security Camera](/assets/blog image/OBS Security Camera.jpg)
