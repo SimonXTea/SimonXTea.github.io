@@ -33,7 +33,7 @@ List of modifications
 
 You can also change the difficulty by changing BOARDWIDTH and BOARDHEIGHT in the code. This is a feature from the original pygame, not the mod.
 
-I wanted to implement a lot more features in this game, like a creepy text adventure minigame (so, the easter egg would be this minigame instead of the music change), the machine moving tiles after you at random ocassions, among others, but unfortunately I didn't have enough time to develop these features, and it was not worth it since only my professor would see it.
+I wanted to implement a lot more features in this game, like a scoreboard and high score system, a creepy text adventure minigame (so, the easter egg would be this minigame instead of the music change), the machine moving tiles after you at random ocassions, 2048 gamemode, among others that I cannot remember, but unfortunately I didn't have enough time to develop these features, and it was not worth it since only my professor would see it.
 
 I could had also made the fullscreen feature work on more operating systems and fix a few bugs (for example: The game can get stuck in the corner and the title bar can go missing)
 
