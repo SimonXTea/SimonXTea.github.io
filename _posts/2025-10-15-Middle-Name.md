@@ -9,7 +9,7 @@ I don't include the full middle name because that can also lead to confusion, re
 
 **In short words: I always include my middle name initial because it makes life easier for everybody. It distinguishes me from my father.**
 
-I don't have plans to change my name, I don't want to. It was suggested that I call myself "Simon jr" or "Simon The 2nd", and I don't like that. Sometimes to avoid the issues mentioned above, I instead name myself something else on the spot, this is more common on phone calls (never legal documents). I often go by either Denis Tea is or Ben Cave.
+I don't have plans to change my name, I don't want to. It was suggested that I call myself "Simon jr" or "Simon The 2nd", and I don't like that. Sometimes to avoid the issues mentioned above, I instead name myself something else on the spot, this is more common on phone calls (never legal documents). I often go by either Denis Tea or Ben Cave.
 
 My full name is Simon X **Camilo Baez**. Camilo Baez are my last names. The image below is a hint as to what my full middle name is.
 
